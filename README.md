@@ -14,5 +14,6 @@ The purpose of this repository is to showcase my growth as a programmer over the
 - I used a wide range of technologies to solve these problems.
 - There is no specific order in the solutions, so you may find a trivial question followed by a very difficult one.
 
-### Feel Free To Tell me About Any Mistake you Find
-### Feel Free To Ask Any Question  you Want
+## Feedback and Questions
+- Feel free to report any mistakes you find.  
+- Feel free to ask any questions you have.
