@@ -12,6 +12,7 @@ The purpose of this repository is to showcase my growth as a programmer over the
 ## About the Solutions
 - Some of these problems are from my early programming days, so the code might not always be clean or the most optimized solution.
 - I used a wide range of technologies to solve these problems.
+- There is no specific order in the solutions, so you may find a trivial question followed by a very difficult one.
 
 ### Feel Free To Tell me About Any Mistake you Find
 ### Feel Free To Ask Any Question  you Want
