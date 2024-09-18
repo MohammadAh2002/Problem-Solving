@@ -7,7 +7,7 @@ The purpose of this repository is to showcase my growth as a programmer over the
 ## How to Navigate the Problems
 - At the top of each file, you'll find a comment describing the problem and what needs to be achieved.
 - Below the comment, you'll see my solution to the problem.
-- Some Problems Have a Name And some Have a Number
+- Some Problems Have a Name And some Have a Number.
 
 ## About the Solutions
 - Some of these problems are from my early programming days, so the code might not always be clean or the most optimized solution.
